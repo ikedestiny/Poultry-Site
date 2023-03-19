@@ -1,13 +1,13 @@
 h1{
-    color:darkblue;
+    color:rgb(240, 219, 30);
     text-align: center;
     font-style: normal;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 100px;
 }
  h3{
     color:darkblue;
-    background-color: rgb(194, 194, 241);
+    background-color: rgb(228, 240, 70);
  }
 body{
     background-color:rgb(237, 237, 250);
