@@ -1,0 +1,56 @@
+h1{
+    color:darkblue;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}
+ h3{
+    color:darkblue;
+    background-color: rgb(194, 194, 241);
+ }
+body{
+    background-color:rgb(237, 237, 250);
+    font-style: oblique;
+    margin: 50px;
+    background-image: url('back.jpg');
+}
+h2{
+    color: crimson;
+    font-style: normal;
+}
+
+th{
+    border: 2px solid black;
+    font-size: 20px ;
+    padding: 5px;
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    color: rgb(226, 150, 50);
+}
+form{
+    padding: 20px;
+}
+a{
+    color:red;
+    font-weight: bold;
+}
+head{
+
+    background-image: url('top.jpg');
+}
+p{
+
+
+    color: rgb(202, 214, 33);
+}
+ul{
+
+    color: rgb(223, 219, 26);
+}
